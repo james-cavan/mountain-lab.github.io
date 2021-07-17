@@ -1,3 +1,5 @@
+# Project Background
+
 ## The Problem
 For those unfamiliar with the game it is a six player board game during which players will vie for control of areas on the board aiming to maintain a grasp on enough castles to be declared the winner. Remaining true to the books and show players inevitably end up making and breaking truces, fighting, lying, manipulating and frustrating one another over the course of several hours. 
 
