@@ -1,8 +1,3 @@
-## The Purpose
-1. To share my attempt to create a browser based verson of the excellent Game of Thrones board game. 
-2. To create a record (for myself) of the thought process behind the code I have written. 
-3. To provide a motivation to finally finish the project - or at least bring it to a useable state. 
-
 ## The Problem
 For those unfamiliar with the game it is a six player board game during which players will vie for control of areas on the board aiming to maintain a grasp on enough castles to be declared the winner. Remaining true to the books and show players inevitably end up making and breaking truces, fighting, lying, manipulating and frustrating one another over the course of several hours. 
 
@@ -20,5 +15,4 @@ This is my sixth (I think) attempt to produce a system through which players cou
 ## Disclaimer
 
 I am not a programmer by education, I have taught myself HTML, CSS and Javascript in the process of working on this project. As I have learnt more about programming in JS, utilising different techniques and features of the language I suspect I have over-used particular tools where others would be more appropriate, and written some generally inefficient code. Please do point out my poor programming and help me improve!
-
 I have also found out recently there now exists an official online version of the game! I don't consider the time entirely wasted - only partially. 
