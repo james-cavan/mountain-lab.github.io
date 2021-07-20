@@ -65,7 +65,6 @@ The menu panel holds the following sub-panels.
 6. Settings - check boxes to hide/show units, order tokens, power tokens. Ability to diable game notifications in the messenger.
 
 ```html
-  <!-- Menu  -->
   <div id="menu">
     <div id="menuButtonPanel">
       <div id="resource" class="panelButton">Resources</div>
