@@ -8,7 +8,7 @@ The HTML below is enclosed in the ```<body></body>``` tags of the page and serve
 
 The login screen utilises a modal div to select their house and log in to their game using their password and game-id. Inclusion of a game-id enables multiple games to be played concurrently.
 
-<img src="../_images/LoginScreen.png"/>
+<img src="../images/LoginScreen.png"/>
 
 ```html
 <!-- Login Screen-->
@@ -54,7 +54,7 @@ Throughout the game players have different pieces of information available to th
 
 The menu is divided into three vertical sections. Firstly the menuButtonPanel containing the six menu buttons. Secondly the dialogPanel which is populated with additional infomation, player choices, order tokens, battle stats etc. at the approptiate point during the game. Thirdly the menuPanel contains the six sub-panels with general player information. 
 
-<img src="../_images/HouseCardMenu.png"/>
+<img src="../images/HouseCardMenu.png"/>
 
 ### Menu Panel
 
