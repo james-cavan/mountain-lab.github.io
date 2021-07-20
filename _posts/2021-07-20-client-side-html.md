@@ -24,7 +24,6 @@ The login screen utilises a modal div to select their house and log in to their 
           <div id="baratheonSigil" class="houseSigil"></div>
           <div id="lannisterSigil" class="houseSigil"></div>
         </div>
-        <!-- <div > -->
         <form id="loginInput">
           <input
             type="text"
@@ -43,7 +42,6 @@ The login screen utilises a modal div to select their house and log in to their 
             class="faded"
           />
         </form>
-        <!-- </div> -->
       </div>
     </div>
   </div>
