@@ -54,7 +54,7 @@ Throughout the game players have different pieces of information available to th
 
 The menu is divided into three vertical sections. Firstly the menuButtonPanel containing the six menu buttons. Secondly the dialogPanel which is populated with additional infomation, player choices, order tokens, battle stats etc. at the approptiate point during the game. Thirdly the menuPanel contains the six sub-panels with general player information. 
 
-<img src="https://github.com/mountain-lab/mountain-lab.github.io/blob/48d7c2bc03e36dfe5d27045a90bea3551f1a4de6/_images/HouseCardMenu.png"/>
+<img src="../_images/HouseCardMenu.png"/>
 
 ### Menu Panel
 
