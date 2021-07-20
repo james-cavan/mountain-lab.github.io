@@ -8,7 +8,7 @@ The HTML below is enclosed in the ```<body></body>``` tags of the page and serve
 
 The login screen utilises a modal div to select their house and log in to their game using their password and game-id. Inclusion of a game-id enables multiple games to be played concurrently.
 
-<img src="https://github.com/mountain-lab/mountain-lab.github.io/blob/48d7c2bc03e36dfe5d27045a90bea3551f1a4de6/_images/LoginScreen.png"/>
+<img src="../_images/LoginScreen.png"/>
 
 ```html
 <!-- Login Screen-->
