@@ -216,3 +216,45 @@ Note: the code below is incomplete in order to reduce the length for illustrativ
     },
   }
 ```
+
+### Combining all the data
+
+The two datastructures outlined above are created from templates and combined into an objects on the initialisation of a new game. 
+
+```javascript
+let newGameDB = {
+    game: gameId,
+    house: {
+      baratheon: require('./jsArrays/baratheonData'),
+      greyjoy: require('./jsArrays/greyjoyData'),
+      lannister: require('./jsArrays/lannisterData'),
+      martell: require('./jsArrays/martellData'),
+      stark: require('./jsArrays/starkData'),
+      tyrell: require('./jsArrays/tyrellData'),
+    },
+    control: require('./jsArrays/gameData'),
+  };
+```
+
+## Message Data
+
+A message history for the chat window is stored as arrays within an object. All possible house to house configurations are stored as empty arrays waiting to be filled. As with the game data this is stored as a string in a text file during periods of inactivity.
+
+```javascript
+    game: [],
+    baratheon_greyjoy: [],
+    baratheon_lannister: [],
+    baratheon_martell: [],
+    baratheon_stark: [],
+    baratheon_tyrell: [],
+    greyjoy_lannister: [],
+    greyjoy_martell: [],
+    greyjoy_stark: [],
+    greyjoy_tyrell: [],
+    lannister_martell: [],
+    lannister_stark: [],
+    lannister_tyrell: [],
+    martell_stark: [],
+    martell_tyrell: [],
+    stark_tyrell: [],
+```
