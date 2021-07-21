@@ -276,7 +276,6 @@ All visible game pieces, units, tokens, markers are dynammically added to and re
   <!-- Board image -->
   <div id="boardModal"></div>
   <div id="board"></div>
-</body>
 ```
 
 
