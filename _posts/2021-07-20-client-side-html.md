@@ -11,7 +11,6 @@ The login screen utilises a modal div to select their house and log in to their 
 ![LoginScreen](https://user-images.githubusercontent.com/71569110/126406067-75bede10-d295-47e9-8807-6444e4e94927.png)
 
 ```html
-<!-- Login Screen-->
   <div id="login">
     <div id="loginModal">
       <div id="loginContent">
