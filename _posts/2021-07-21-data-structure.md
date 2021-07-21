@@ -219,7 +219,7 @@ Note: the code below is incomplete in order to reduce the length for illustrativ
 
 ### Combining all the data
 
-The two datastructures outlined above are created from templates and combined into an objects on the initialisation of a new game. 
+The two datastructures outlined above are created from templates and combined into a single object on the initialisation of a new game. 
 
 ```javascript
 let newGameDB = {
