@@ -1,6 +1,6 @@
 # Data Structure
 
-Maintaining a sensible data structure for the game, which also has strong parallels to the physical game, has been important choice as throughout a game pieces are removed, added, manipulated and each of these changes are tied to specific game peices. To retain game state during server down-time and player disconnects the game data is converted to strings and written to a file. JS objects are the chosen method to store the data in for the ease of succinctly addressing and returning data and values.
+Maintaining a sensible data structure which also has strong parallels to the physical game representation has been important choice as specific game pieces are removed, added and manipulated. To retain game state during server down-time and player disconnects the game data is converted to strings and written to a file. JS objects are the chosen method to store the data in for the ease of succinctly addressing and returning data and values.
 
 ## Game Data
 
