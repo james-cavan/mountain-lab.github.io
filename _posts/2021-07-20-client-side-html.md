@@ -268,13 +268,13 @@ Options and choices given to players on selecting a unit or token are dynamicall
 All visible game pieces, units, tokens, markers are dynammically added to and removed from ```<div id="board"></div>```. This forms the virtual game board players interact with in the same manner they would a real game board - placing tokens, units etc.
 
 ``` html
-  <!-- Dynamic menu -->
-  <div id="contextMenu"></div>
-  <!-- Took Tip text-->
-  <div id="activePlayerText">Active Player</div>
-  <!-- Board image -->
-  <div id="boardModal"></div>
-  <div id="board"></div>
+<!-- Dynamic menu -->
+<div id="contextMenu"></div>
+<!-- Took Tip text-->
+<div id="activePlayerText">Active Player</div>
+<!-- Board image -->
+<div id="boardModal"></div>
+<div id="board"></div>
 ```
 
 
