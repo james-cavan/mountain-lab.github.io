@@ -241,6 +241,7 @@ let newGameDB = {
 A message history for the chat window is stored as arrays within an object. All possible house to house configurations are stored as empty arrays waiting to be filled. As with the game data this is stored as a string in a text file during periods of inactivity.
 
 ```javascript
+let newMessageDB = {
     game: [],
     baratheon_greyjoy: [],
     baratheon_lannister: [],
@@ -257,4 +258,5 @@ A message history for the chat window is stored as arrays within an object. All 
     martell_stark: [],
     martell_tyrell: [],
     stark_tyrell: [],
+  };
 ```
